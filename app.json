@@ -1,0 +1,12 @@
+{
+  "name": "controle-churrasco",
+  "displayName": "controle-churrasco",
+  "expo": {
+    "name": "controle-churrasco",
+    "slug": "controle-churrasco",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
